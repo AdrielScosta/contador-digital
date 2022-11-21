@@ -1,1 +1,1 @@
-# relogio-digital
+# contador-digital
