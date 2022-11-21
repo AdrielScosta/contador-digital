@@ -1,0 +1,28 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+#relogio{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(151, 151, 151);
+    font-size: 35pt;
+    height: 60px;
+    width: 220px;
+    border: 2px solid black;
+}
+
+h3{
+    margin-top: -1.3vh;
+    
+}
